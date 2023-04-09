@@ -1,7 +1,7 @@
 # Личный проект «Мишка» 
 
 * Студент: [Данила Федоров](https://up.htmlacademy.ru/adaptive/28/user/2303173).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий (sench) Железцов](https://htmlacademy.ru/profile/sench).
 
 ---
 
