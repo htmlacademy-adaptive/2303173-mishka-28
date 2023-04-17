@@ -4,6 +4,9 @@
   "description": "Личный проект «Мишка» от HTML Academy",
   "devDependencies": {
     "@htmlacademy/editorconfig-cli": "1.0.0",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.62.0",
     "stylelint": "13.13.1",
     "stylelint-config-htmlacademy": "^0.1.11"
   },
@@ -12,7 +15,7 @@
     "stylelint": "stylelint .",
     "lint": "npm run editorconfig",
     "build": "echo 'Build task'",
-    "start": "echo 'Start task'"
+    "start": "npx gulp"
   },
   "editorconfig-cli": [
     "*.json",
@@ -21,5 +24,5 @@
   "engines": {
     "node": "^16"
   },
-  "type": "module"
+  "type": "commonjs"
 }
